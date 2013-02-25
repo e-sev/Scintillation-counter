@@ -29,3 +29,6 @@
 # Eagle temporary files
 *.s#*
 *.b#*
+
+# Apple stuff
+*.DS_store
